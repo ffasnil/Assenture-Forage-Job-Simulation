@@ -1,4 +1,9 @@
 # Assenture-Forage-Job-Simulation
+![Social Buzz Accenture Project](https://github.com/ffasnil/Assenture-Forage-Job-Simulation/assets/89661712/669049bf-455e-4265-bd1b-75152d65e6cd)
+links to Tableau -> [Accenture-Forage Project: Social Buzz](https://public.tableau.com/views/Accenture-ForageProjectSocialBuzz/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+</br>
+</br>
+</br>
 
 This project is a part of the [Accenture Virtual Experience Program](https://www.accenture.com/gb-en/careers/local/virtual-experience-program), where a role as a specialist in Data Analytics will be undertaken. Tasks will be assigned by a client consulting with the company to uncover insights from the provided CSV files.
 
