@@ -3,11 +3,15 @@
 links to Tableau -> [Accenture-Forage Project: Social Buzz](https://public.tableau.com/views/Accenture-ForageProjectSocialBuzz/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 </br>
-</br>
 
 This project is a part of the [Accenture Virtual Experience Program](https://www.accenture.com/gb-en/careers/local/virtual-experience-program), where a role as a specialist in Data Analytics will be undertaken. Tasks will be assigned by a client consulting with the company to uncover insights from the provided CSV files.
 
+**<ins>Libraries</ins>**
+* Pandas
+* Seaborn
+* Matplotlib
 
+**<ins>Tables</ins>**
 1) Content.csv includes 5 variables and 1,000 rows
    | **Variables** | **Data Types** | **Desciption** |
    | --------- | ---------- | ---------- |
@@ -36,5 +40,4 @@ This project is a part of the [Accenture Virtual Experience Program](https://www
    | Sentiment | object | Positive, Neutral, Negative |
    | Score | int | Score of reaction |
 
-In addition, the libraries used in this project consist of **pandas**, **seaborn**, and **matplotlib**
    
